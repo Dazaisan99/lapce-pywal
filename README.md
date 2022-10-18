@@ -17,4 +17,5 @@ cp .cache/wal/lapce.toml ~/.local/share/lapce-stable/themes/pywal.toml
 ```
 
 The theme will now be accessible using the **Change Theme** command in Lapce
-Enjoy !
+
+### **Enjoy !**
