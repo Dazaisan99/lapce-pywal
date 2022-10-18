@@ -1,0 +1,120 @@
+
+[theme]
+name = "Lapce"
+
+[ui]
+font-family = ""
+font-size = 13
+header-height = 35
+status-height = 25
+tab-min-width = 100
+activity-width = 50
+scroll-width = 10
+drop-shadow-width = 0
+
+[theme.base]
+white = "{color15}"
+black = "{color0}"
+grey = "{cursor}"
+blue = "{color4}"
+red = "{color1}"
+yellow = "{color3}"
+orange = "{color3}"
+green = "{color2}"
+purple = "{color5}"
+cyan = "{color6}"
+magenta = "{color5}"
+
+[theme.syntax]
+"comment" = "#5C6370"
+"constant" = "$yellow"
+"type" = "$yellow"
+"typeAlias" = "$yellow"
+"number" = "$yellow"
+"enum" = "$yellow"
+"struct" = "$yellow"
+"structure" = "$yellow"
+"interface" = "$yellow"
+"attribute" = "$yellow"
+"constructor" = "$yellow"
+"function" = "$blue"
+"method" = "$blue"
+"function.method" = "$blue"
+"keyword" = "$purple"
+"selfKeyword" = "$purple"
+"field" = "$red"
+"property" = "$red"
+"enumMember" = "$red"
+"enum-member" = "$red"
+"variable.other.member" = "$red"
+"string" = "$green"
+"type.builtin" = "$cyan"
+"builtinType" = "$cyan"
+"escape" = "$cyan"
+"embedded" = "$cyan"
+
+[theme.ui]
+"lapce.active_tab" = "$black"
+"lapce.inactive_tab" = "$grey"
+"lapce.error" = "$red"
+"lapce.warn" = "$yellow"
+"lapce.dropdown_shadow" = "$white"
+"lapce.border" = "$white"
+"lapce.scroll_bar" = "$white"
+
+
+"editor.background" = "{background}"
+"editor.foreground" = "{foreground}"
+"editor.dim" = "$grey"
+"editor.focus" = "$grey"
+"editor.caret" = "$cyan"
+"editor.selection" = "#2c313a"
+"editor.current_line" = "2c313a"
+"editor.link" = "$cyan"
+
+"source_control.added" = "#50A14F32"
+"source_control.removed" = "#FF526632"
+"source_control.modified" = "#0184BC32"
+
+"palette.background" = "#21252B"
+"palette.current" = "#2C313A"
+
+"completion.background" = "$black"
+"completion.current" = "#2C313A"
+
+"hover.background" = "$black"
+
+"activity.background" = "{background}"
+"activity.current" = "$black"
+
+"panel.background" = "{background}"
+"panel.current" = "#2C313A"
+"panel.hovered" = "#343A45"
+
+"status.background" = "{background}"
+"status.modal.normal" = "$blue"
+"status.modal.insert" = "$red"
+"status.modal.visual" = "$yellow"
+"status.modal.terminal" = "$purple"
+
+"markdown.blockquote" = "#898989"
+
+"terminal.cursor" = "{cursor}"
+"terminal.foreground" = "{foreground}"
+"terminal.background" = "{background}"
+"terminal.white" = "$white"
+"terminal.black" = "$black"
+"terminal.red" = "$red"
+"terminal.blue" = "$blue"
+"terminal.green" = "$green"
+"terminal.yellow" = "$yellow"
+"terminal.cyan" = "$cyan"
+"terminal.magenta" = "$magenta"
+"terminal.bright_white" = "#C8CCD4"
+"terminal.bright_red" = "$red"
+"terminal.bright_blue" = "$blue"
+"terminal.bright_green" = "$green"
+"terminal.bright_yellow" = "$yellow"
+"terminal.bright_cyan" = "$cyan"
+"terminal.bright_magenta" = "$magenta"
+"terminal.bright_black" = "#545862"
