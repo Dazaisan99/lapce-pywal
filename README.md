@@ -2,19 +2,19 @@
 
 # Installation
 clone this repository :
-'''
+```
 git clone https://github.com/Dazaisan99/pywal-lapce
-'''bash
+```bash
 move the file in the in the wal templates :
-'''
+```
 mv ~/pywal-lapce/lapce.toml .config/wal/templates/
-'''bash
+```bash
 
 # Usage
-'''
+```
 wal -i _path-to-your-image_
 cp .cache/wal/lapce.toml ~/.local/share/lapce-stable/themes/pywal.toml
-'''bash
+```bash
 
 The theme will now be accessible using the **Change Theme** command in Lapce
 Enjoy !
