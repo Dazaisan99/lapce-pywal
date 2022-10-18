@@ -12,7 +12,7 @@ mv ~/pywal-lapce/lapce.toml .config/wal/templates/
 
 ## Usage
 ```bash
-wal -i path-to-your-image
+wal -i path/to/your/image
 cp .cache/wal/lapce.toml ~/.local/share/lapce-stable/themes/pywal.toml
 ```
 
